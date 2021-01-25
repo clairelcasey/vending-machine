@@ -14,7 +14,7 @@ function Chips() {
     <div className="Chips">
       <h1>Chips!</h1>
       <p>
-        <Link exact to="/">Go back to vending machine</Link>
+        <Link to="/">Go back to vending machine</Link>
       </p>
     </div>
   )

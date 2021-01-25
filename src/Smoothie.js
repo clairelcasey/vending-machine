@@ -14,7 +14,7 @@ function Smoothie() {
     <div className="Smoothie">
       <h1>Smoothie!</h1>
       <p>
-        <Link exact to="/">Go back to vending machine</Link>
+        <Link to="/">Go back to vending machine</Link>
       </p>
     </div>
   )

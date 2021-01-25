@@ -15,13 +15,13 @@ function VendingMachine() {
       <h1>Vending Machine!</h1>
       <ul>
         <li>
-          <Link exact to="/kitkat">KitKat</Link>
+          <Link to="/kitkat">KitKat</Link>
         </li>
         <li>
-          <Link exact to="/smoothie">Smoothie</Link>
+          <Link to="/smoothie">Smoothie</Link>
         </li>
         <li>
-          <Link exact to="/chips">Chips</Link>
+          <Link to="/chips">Chips</Link>
         </li>
       </ul>
     </div>

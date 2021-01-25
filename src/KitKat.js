@@ -14,7 +14,7 @@ function KitKat() {
     <div className="KitKat">
       <h1>KitKat!</h1>
       <p>
-        <Link exact to="/">Go back to vending machine</Link>
+        <Link to="/">Go back to vending machine</Link>
       </p>
     </div>
   )
